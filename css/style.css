@@ -10,7 +10,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #fff;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -76,7 +76,8 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 /* --------------------------------------------------------------------- */
 #navp{
-    background-color: #ffffff;
+  background: none;
+    /* background-color: #ffffff; */
     color: black;
 }
 /* --------------------------------------------------------------------- */
@@ -245,6 +246,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 /* --------------------------------------------------------------------- */
 /* --------------------------------------------------------------------- */
 .card_p{
+  background: none;
     justify-content: center;
     text-align: center;
 }
