@@ -84,7 +84,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 *{padding: 0; margin: 0; box-sizing: border-box;}
 body{height: 900px;}
 header {
-	background: url('/my_wep_site_in_college_13_v2/img/photo_2023-12-30_10-53-55.jpg');
+	background: url(https://wallpaper.dog/large/10819331.jpg);
 	text-align: center;
 	width: 100%;
 	height: auto;
@@ -100,7 +100,7 @@ header .overlay{
 	padding: 50px;
 	color: #FFF;
 	text-shadow: 1px 1px 1px #333;
-  /* background-image: linear-gradient( 135deg, #ffffff69 10%, #53f8006b 100%); */
+  background-image: linear-gradient( 135deg, #7a7a7a69 10%, #4747476b 100%);
 	
 }
 
